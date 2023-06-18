@@ -1,0 +1,13 @@
+Yönetici Girişi
+
+mail: yonetici@gmail.com
+pass: 1234
+
+Danışman Girişi
+
+mails:
+danisman1@deu.edu.tr
+danisman2@deu.edu.tr
+danisman3@deu.edu.tr
+pass:
+1234
